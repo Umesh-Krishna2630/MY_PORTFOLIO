@@ -1,7 +1,6 @@
 .about {
   position: relative;
   padding: 4rem;
-  background: url('C:/Users/Dell/Desktop/sung.jpg') no-repeat center center;
   background-size: cover;
   color: black;
   display: flex;
@@ -29,13 +28,13 @@ h2 {
   margin-left: 20px;
   margin-top: 80px;
 }
-
 .profile-img {
   border-radius: 50%;
   width: 200px;
   height: 200px;
   object-fit: cover;
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  background-image: url('../About/sung.jpg');
 }
 
 .profile-info {
