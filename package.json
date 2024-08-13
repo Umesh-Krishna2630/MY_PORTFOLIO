@@ -47,6 +47,7 @@
   },
   "devDependencies": {
     "file-loader": "^6.2.0",
+    "gh-pages": "^6.1.1",
     "image-webpack-loader": "^8.1.0"
   }
 }
